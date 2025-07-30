@@ -11,15 +11,15 @@
 
 ###
 
-<p align="left">📌I am a Frontend Developer from Berlin</p>
+<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:24px">📌I am a Frontend Developer from Berlin</p>
 
 ###
 
-<p align="left">👉check my projekts here: www.alizadaportofolio.com</p>
+<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👉check my projekts here: www.alizadaportofolio.com</p>
 
 ###
 
-<h2 align="left">i code with</h2>
+<h2 style="font-weight:600; font-size:32px; margin-bottom:16px;">i code with</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻Ausbildung als Kaufmann-IT-Sytemmangement<br>👨🏽‍💻Weiterbildg als Frontend-Entwickler</p>
+<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👨🏽‍💻Ausbildung als Kaufmann-IT-Sytemmangement<br>👨🏽‍💻Weiterbildg als Frontend-Entwickler</p>
 
 ###
 
