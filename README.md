@@ -1,9 +1,5 @@
 
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/155908902?v=4"  />
-</div>
-
 ###
 
 <h1 style="font-weight:600; font-size:64px; margin-bottom:16px;">Hey there, i am Aliaqa👋</h1>
