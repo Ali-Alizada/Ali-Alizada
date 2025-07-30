@@ -47,8 +47,8 @@
 
 ###
 
-<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👨🏽‍💻 Vocational training in IT systems management
-👨🏽‍💻 Currently training as a frontend developer at Developer Akademie</p>
+<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👨🏽‍💻Vocational training in IT systems management <br>
+👨🏽‍💻Currently training as a frontend developer at Developer Akademie</p>
 
 ###
 
