@@ -47,7 +47,8 @@
 
 ###
 
-<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👨🏽‍💻Ausbildung als Kaufmann-IT-Sytemmangement<br>👨🏽‍💻Weiterbildg als Frontend-Entwickler</p>
+<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👨🏽‍💻 Vocational training in IT systems management
+👨🏽‍💻 Currently training as a frontend developer at Developer Akademie</p>
 
 ###
 
