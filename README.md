@@ -11,11 +11,7 @@
 
 ###
 
-<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:24px">📌I am a Frontend Developer from Berlin</p>
-
-###
-
-<p align="left" style="margin-bottom:16px; font-family: SemiBold; font-size:32px">👉check my projekts here: www.alizadaportofolio.com</p>
+<p align="left">📌I am a Frontend Developer from Berlin<br>👉check my projekts here: www.alizadaportofolio.com</p>
 
 ###
 
