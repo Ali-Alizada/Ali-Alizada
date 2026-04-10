@@ -1,54 +1,51 @@
 <h1 align="center">Hi 👋, I'm Aliaqa</h1>
-<h3 align="center">Frontend Developer based in Berlin 🇩🇪</h3>
+<h3 align="center">Frontend Developer from Berlin 🇩🇪</h3>
 
 <p align="center">
-  🚀 Passionate about building modern web applications <br>
-  🎯 Focused on clean UI, performance & great user experience
+  🚀 Building modern & responsive web apps <br>
+  🎯 Clean code • UI/UX • Performance
 </p>
 
 ---
 
-## 🔗 Portfolio
+## 🌐 Portfolio
 
 <p align="center">
-  👉 <a href="https://www.alizadaportofolio.com" target="_blank"><b>Check out my projects</b></a>
+  👉 <a href="https://www.alizadaportofolio.com"><b>Visit my Portfolio</b></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Vocational training in IT Systems Management  
-- 💻 Currently training as a Frontend Developer  
-- 📍 Based in Berlin  
-- ⚡ Always learning and improving my skills  
+- 🎓 IT Systems Management background  
+- 💻 Frontend Developer in training  
+- 📍 Berlin, Germany  
+- ⚡ Passionate about clean UI & smooth UX  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma" />
 </p>
 
 ---
 
-### 🧰 Tools
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -56,14 +53,14 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" /></a>
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="YOUR_DISCORD"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love turning ideas into interactive web experiences ✨
+> I turn ideas into interactive digital experiences ✨
