@@ -64,3 +64,11 @@
 ## ⚡ Fun Fact
 
 > I turn ideas into interactive digital experiences ✨
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DEIN_USERNAME/Ali-Alizada/output/snake-dark.svg" />
+</p>
+
+
