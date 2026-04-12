@@ -6,15 +6,12 @@
   🎯 Clean code • UI/UX • Performance
 </p>
 
----
 
 ## 🌐 Portfolio
 
 <p align="center">
   👉 <a href="https://www.alizadaportofolio.com"><b>Visit my Portfolio</b></a>
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -23,7 +20,6 @@
 - 📍 Berlin, Germany  
 - ⚡ Passionate about clean UI & smooth UX  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,19 +27,16 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma,trello" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
+## GitHub Stats
+<br>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Alizada&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Alizada&theme=tokyonight" height="150"/>
 </p>
 
 
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -51,10 +44,10 @@
     <img src="https://raw.githubusercontent.com/Ali-Alizada/Ali-Alizada/output/snake.svg">
   </picture>
 </p>
----
 
-## 📫 Connect with Me
 
+## Connect with Me
+<br>
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="YOUR_DISCORD"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
@@ -62,7 +55,6 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
----
 
 ## ⚡ Fun Fact
 
