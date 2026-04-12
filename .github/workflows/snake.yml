@@ -20,6 +20,7 @@ jobs:
           github_user_name: Ali-Alizada
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
