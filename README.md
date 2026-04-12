@@ -45,9 +45,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Alizada/Ali-Alizada/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Ali-Alizada/Ali-Alizada/output/snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 📫 Connect with Me
@@ -65,14 +67,6 @@
 
 > I turn ideas into interactive digital experiences ✨
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Alizada/Ali-Alizada/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Ali-Alizada/Ali-Alizada/output/snake.svg">
-  </picture>
-</p>
 
 
 
