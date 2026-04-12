@@ -22,7 +22,7 @@
 
 
 ## 🛠️ Tech Stack
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma,trello" />
 </p>
