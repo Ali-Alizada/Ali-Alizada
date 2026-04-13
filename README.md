@@ -27,14 +27,25 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma,trello" />
 </p>
 
+##  Featured Projects
+
+<p align="center">
+  🔹 Project 1 – in comming<br>
+</p>
 
 ## GitHub Stats
 <br>
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Alizada&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Alizada&theme=tokyonight" height="150"/>
-</p>
+</p> 
 
+
+## Top Languages
+<br> 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ali-Alizada&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ## Contribution Snake
 
