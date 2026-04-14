@@ -11,7 +11,7 @@
 </p>
 
 
-## 💼 Available for Hire
+## Available for Hire
 
 <p align="center">
   💬 Open for Junior Frontend Developer roles <br>
@@ -36,7 +36,7 @@ Currently growing my skills and looking for my first professional experience in 
 </p>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma,trello" />
