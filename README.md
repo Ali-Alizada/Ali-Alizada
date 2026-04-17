@@ -29,7 +29,7 @@ Currently growing my skills and looking for my first professional experience in 
 </p>
 
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
   👉 <a href="https://www.alizadaportofolio.com"><b>Visit my Portfolio</b></a>
