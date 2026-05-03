@@ -15,7 +15,7 @@
 
 <p align="center">
   💬 Open for Junior Frontend Developer roles <br>
-  📍 Berlin Germany <br>
+  📍 Brandenburg Germany <br>
   📩 Contact me via LinkedIn or Email
 </p>
 
