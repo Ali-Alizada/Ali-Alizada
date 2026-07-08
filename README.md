@@ -32,7 +32,7 @@ Currently growing my skills and looking for my first professional experience in 
 ## Portfolio
 
 <p align="center">
-  👉 <a href="https://www.alizadaportofolio.com"><b>Visit my Portfolio</b></a>
+  👉 <a href="https://aliaqa-alizada.de"><b>Visit my Portfolio</b></a>
 </p>
 
 
@@ -47,7 +47,7 @@ Currently growing my skills and looking for my first professional experience in 
 
 <p align="center">
 More projects coming soon...
-<a href="https://www.alizadaportofolio.com">
+<a href="https://aliaqa-alizada.de">
   <img src="https://via.placeholder.com/400x200?text=Project+Preview" width="400"/>
 </a>
 
