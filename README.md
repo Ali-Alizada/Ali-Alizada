@@ -39,7 +39,7 @@ Currently growing my skills and looking for my first professional experience in 
 ## Tech Stack
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,firebase,git,figma,trello" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,angular,firebase,git,figma,scrum" />
 </p>
 
 
