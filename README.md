@@ -89,13 +89,13 @@ Modern responsive portfolio built with Angular<br>
 
 
 
-##  Connect with Me
+##  Get in touch
 <br>
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <!-- <a href="YOUR_DISCORD"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
   <a href="YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a> -->
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> -->
 </p>
 
 
