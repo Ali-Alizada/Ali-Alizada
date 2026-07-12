@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aliaqa;Junior+Frontend+Developer;Angular+%7C+TypeScript+%7C+UI%2FUX;Building+modern+web+apps" />
 </p>
 
-<h3 align="center">Junior Frontend Developer from Berlin 🇩🇪</h3>
+<!-- <h3 align="center">🇩🇪</h3> -->
 
 <p align="center">
   Building modern & responsive web apps <br>
@@ -16,7 +16,7 @@
 <p align="center">
   💬 Open for Junior Frontend Developer roles <br>
   📍 Brandenburg Germany <br>
-  📩 Contact me via LinkedIn or Email
+  📩 Contact me via LinkedIn or contact form on my Portfolio
 </p>
 
 
