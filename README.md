@@ -17,7 +17,7 @@
   <a href="https://aliaqa-alizada.de">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="linkedin.com/in/aliaqa-alizada-57297b39a">
+  <a href="https://linkedin.com/in/aliaqa-alizada-57297b39a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ali-Alizada">
@@ -195,7 +195,7 @@ Personal portfolio showcasing selected projects, technical skills and my develop
   <a href="https://aliaqa-alizada.de">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="linkedin.com/in/aliaqa-alizada-57297b39a">
+  <a href="https://linkedin.com/in/aliaqa-alizada-57297b39a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ali-Alizada">
