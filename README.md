@@ -17,7 +17,7 @@
   <a href="https://aliaqa-alizada.de">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="linkedin.com/in/aliaqa-alizada-57297b39a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ali-Alizada">
@@ -44,25 +44,21 @@
 
 ## About
 
-I am a **Junior Frontend Developer** with a completed professional **Frontend Developer Weiterbildung at Developer Akademie**.
+am a Junior Frontend Developer with a successfully finished Frontend Developer Weiterbildung at Developer Akademie.
 
-My focus is on building responsive, maintainable and user-friendly web applications with **Angular, TypeScript and modern frontend technologies**.
+During my training and personal projects, I worked with Angular, TypeScript, JavaScript, HTML, CSS, SCSS, Vite, Firebase, Supabase and REST APIs.
 
-Through my professional training and practical projects, I gained hands-on experience in component-based development, REST APIs, Firebase, Supabase, responsive design, object-oriented programming and collaborative development workflows.
+I enjoy building responsive websites and web applications, learning new technologies and improving my coding skills through practical projects.
 
-I enjoy turning ideas and designs into functional interfaces while paying attention to clean code, reusable components and a good user experience.
-
-I am currently looking for my first professional opportunity as a **Junior Frontend Developer**, where I can contribute to real-world projects and continue developing my technical skills within an experienced team.
+I am currently looking for my first opportunity as a Junior Frontend Developer, where I can gain real-world experience, contribute to a team and continue learning.
 
 ---
 
-## Professional Training
-
 ### Frontend Developer — Developer Akademie
 
-**Completed**
+Successfully finished a Frontend Developer Weiterbildung with a focus on practical frontend development.
 
-Professional training focused on modern frontend development with practical projects and collaborative development workflows.
+During the training, I worked with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
@@ -100,7 +96,6 @@ Professional training focused on modern frontend development with practical proj
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ### Development Tools & Workflow
@@ -125,84 +120,6 @@ Professional training focused on modern frontend development with practical proj
 | **Pokédex**       | JavaScript · REST API · HTML · CSS     | API Integration · Dynamic Data           |  Live  |
 | **Memory Game**   | TypeScript · SCSS · HTML               | Game Logic · UI                          |  Live  |
 | **Portfolio**     | HTML · CSS · JavaScript · PHP          | Personal Portfolio · Responsive Design   |  Live  |
-
----
-
-## Poll App
-
-**Angular · TypeScript · SCSS · Supabase**
-
-A modern polling application developed with Angular and Supabase.
-
-| Area         | Implementation                                     |
-| :----------- | :------------------------------------------------- |
-| Framework    | Angular                                            |
-| Language     | TypeScript                                         |
-| Styling      | SCSS                                               |
-| Database     | Supabase                                           |
-| Architecture | Component-based development                        |
-| Focus        | Interactive UI · Data handling · Responsive Design |
-
----
-
-## Join 360
-
-**JavaScript · HTML · CSS · Firebase**
-
-A collaborative task-management application based on modern project-management workflows.
-
-| Area     | Implementation                                  |
-| :------- | :---------------------------------------------- |
-| Frontend | HTML · CSS · JavaScript                         |
-| Backend  | Firebase                                        |
-| Features | User management · Tasks · Boards                |
-| Focus    | Responsive UI · Data handling · User Experience |
-
----
-
-## El Pollo Loco
-
-**JavaScript · HTML5 Canvas · CSS**
-
-A browser-based 2D game developed with JavaScript and object-oriented programming.
-
-| Area        | Implementation                              |
-| :---------- | :------------------------------------------ |
-| Language    | JavaScript                                  |
-| Graphics    | HTML5 Canvas                                |
-| Programming | Object-Oriented Programming                 |
-| Features    | Game Logic · Collision Detection · Controls |
-| Focus       | JavaScript · Interactive Applications       |
-
----
-
-## Pokédex
-
-**JavaScript · REST API · HTML · CSS**
-
-A web application that retrieves and displays Pokémon data through a REST API.
-
-| Area     | Implementation                               |
-| :------- | :------------------------------------------- |
-| Frontend | HTML · CSS · JavaScript                      |
-| Data     | REST API                                     |
-| Features | API Integration · Dynamic Rendering · Search |
-| Focus    | Asynchronous JavaScript · Responsive UI      |
-
----
-
-## Memory Game
-
-**TypeScript · SCSS · HTML**
-
-An interactive memory game developed to apply TypeScript and modern frontend development concepts.
-
-| Area     | Implementation                                |
-| :------- | :-------------------------------------------- |
-| Language | TypeScript                                    |
-| Styling  | SCSS                                          |
-| Frontend | HTML                                          |
-| Focus    | Game Logic · User Interaction · Responsive UI |
 
 ---
 
@@ -250,11 +167,6 @@ Personal portfolio showcasing selected projects, technical skills and my develop
 
 ---
 
-## GitHub Activity
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Alizada&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" /> </p>
-
----
 
 ## Contribution Activity
 
@@ -283,7 +195,7 @@ Personal portfolio showcasing selected projects, technical skills and my develop
   <a href="https://aliaqa-alizada.de">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="linkedin.com/in/aliaqa-alizada-57297b39a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Ali-Alizada">
