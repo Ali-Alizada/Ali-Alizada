@@ -146,20 +146,15 @@ Personal portfolio showcasing selected projects, technical skills and my develop
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ali-Alizada&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Ali-Alizada&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Alizada&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Alizada&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ali-Alizada&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
     alt="Top Languages"
   />
